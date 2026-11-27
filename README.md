@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-wael-9a6a5938a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:waela7473@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/13AGIC4eGPMjM-aAlQPgZ1VAVypSVnfnB/view?usp=sharing"><img src="https://img.shields.io/badge/Download_CV-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Abo0wael&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
 </p>
 
