@@ -18,7 +18,7 @@
 - 🎓 Third-year CS student @ Egyptian Chinese University
 - 🤖 Working on **RAG, multi-agent systems, and LLM fine-tuning**
 - 🏆 Head of Mentors @ ICPC ECU-CS
-- 🚀 NASA Space Apps Cairo 2026 participant
+- 💬 Ask me about RAG, LLM fine-tuning, or competitive programming
 
 ## 🛠️ Tech Stack
 <p align="center">
